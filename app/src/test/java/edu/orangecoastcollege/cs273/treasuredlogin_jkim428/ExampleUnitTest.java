@@ -1,4 +1,4 @@
-package edu.orangecoastcollege.cs273.treasuredlogin;
+package edu.orangecoastcollege.cs273.treasuredlogin_jkim428;
 
 import org.junit.Test;
 
